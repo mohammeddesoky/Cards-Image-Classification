@@ -2,7 +2,7 @@
 
 * **Overview**
 
-		This project has a great ability to recognize and distinguish playing cards with high accuracy using the CNN Model. The final application includes a graphical user interface (GUI) built with Tkinter for ease of use.
+	This project has a great ability to recognize and distinguish playing cards with high accuracy using the CNN Model. The final application includes a graphical user interface (GUI) built with Tkinter for ease of use.
 
 * **Features**
 
@@ -13,8 +13,8 @@
 
 * **Technologies Used**
 
-		Programming Language: Python Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Tensorflow, CV, Tkinter (for GUI).
+	Programming Language: Python Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Tensorflow, CV, Tkinter (for GUI).
 
 * **Download the Dataset**
 
-		You can download the dataset required for training and testing from this link: https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
+	You can download the dataset required for training and testing from this link: https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
